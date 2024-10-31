@@ -1,8 +1,8 @@
 # Extrair_Config_Firewall_Fortigate
 
-Clonando git
+1 - Clonando git
 
-1 - git clone https://github.com/Jonathan-Nascimento/Extrair_Config_Firewall_Fortigate.git
+~# git clone https://github.com/Jonathan-Nascimento/Extrair_Config_Firewall_Fortigate.git
 
 2 - Entre no diretorio clonado
 
