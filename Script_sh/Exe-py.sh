@@ -5,6 +5,11 @@ VERDE='\033[0;32m'  # Verde para sucesso
 VERMELHO='\033[0;31m'  # Vermelho para erro
 RESET='\033[0m'  # Reseta a cor
 
+# Crirar diretorio extraido
+mkdir ../extraido
+
+echo -e "${VERDE}Diretorio "EXTRAIDO" criado com sucesso.${RESET}"
+
 # Caminho onde estão localizados os scripts
 PASTA_SCRIPTS="../Script_py"  # Substitua pelo caminho correto, se necessário
 
