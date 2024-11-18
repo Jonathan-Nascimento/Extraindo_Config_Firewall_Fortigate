@@ -113,12 +113,6 @@ Os relatórios gerados são salvos no diretório `extraido`, com arquivos nomead
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
 **Dúvidas ou sugestões?** Entre em contato através do [GitHub Issues](https://github.com/Jonathan-Nascimento/Extrair_Config_Firewall_Fortigate/issues).
 
 
