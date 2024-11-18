@@ -1,6 +1,3 @@
-Aqui está uma versão revisada e aprimorada do seu `README.md`:
-
----
 
 # Scripts para Extração de Configurações do FortiGate
 
